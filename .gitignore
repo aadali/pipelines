@@ -1,0 +1,10 @@
+.idea/
+.vscode/
+work/
+test/
+database/
+.nextflow/
+.nextflow.log*
+assembly.txt
+*.swap
+#
